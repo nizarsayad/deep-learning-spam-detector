@@ -14,6 +14,7 @@ AT&T has been able to manually flag spam messages for a time, but they are looki
 
 This project is part of the professional certification Machine Learning Engineer (Concepteur Développeur en Science des données) and represents bloc 4 of the certification titled: "Deep Learning".
 
+The link to the Vidyard video is [here](https://share.vidyard.com/watch/65aw9ZmdeJ5UXALuCZh4Ch?)
 ## Project Structure
 
 The project consists of several components:
